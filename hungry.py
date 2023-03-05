@@ -3,3 +3,4 @@ print("This time I am adding a new line to the file to observe the git system mo
 print("I Like Cricket")
 print("I Love India")
 print("I Love Amma")
+print("786")
